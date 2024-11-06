@@ -1,6 +1,5 @@
 {
     "name": "Project 11: Traffic Light",
-    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
