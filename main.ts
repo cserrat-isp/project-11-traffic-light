@@ -11,6 +11,6 @@ basic.forever(function () {
     }
     basic.pause(500)
     pins.digitalWritePin(DigitalPin.P2, 1)
-    basic.pause(5000)
+    basic.pause(10000)
     pins.digitalWritePin(DigitalPin.P2, 0)
 })
